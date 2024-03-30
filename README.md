@@ -33,7 +33,11 @@ Before running the script, you need to configure the email settings:
 ## Usage
 
 1. Run the script:
-2. The script will start runnign and will automatically send the email report at the specified time
+
+```
+python daily_emails.py
+```
+3. The script will start runnign and will automatically send the email report at the specified time
 
 ## Customization
 
