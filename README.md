@@ -14,6 +14,6 @@ This project automates the process of sending daily email reports using Python. 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/k-Yashika/daily-emails-auto.git
+   git **clone** https://github.com/k-Yashika/daily-emails-auto.git
    ```
 3. Install dependencies:
